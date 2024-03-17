@@ -10,7 +10,7 @@ const projectsData = [
     description: "React Portfolio Website by using React (Next.js)",
     image: "/images/projects/portfolio-project.png",
     tag: ["All", "Web", "Mobile"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/copcrush/copcrush-portfolio.git",
     previewUrl: "/",
   },
   {
@@ -19,19 +19,18 @@ const projectsData = [
     description: "Forecasty Weather App by using React",
     image: "/images/projects/forecasty-project.png",
     tag: ["All", "Web", "Mobile"],
-    gitUrl: "https://github.com/copcrush/react-app-forecasty.git",
-    previewUrl:
-      "https://github.com/copcrush/react-app-forecasty/blob/main/src/App.js",
+    gitUrl: "https://github.com/copcrush/forecasty-weather-app.git",
+    previewUrl: "https://forecasty-weather.netlify.app/",
   },
   {
     id: 3,
     title: "Pokedex App",
-    description: "Pokedex App by using React (Vite.js)",
+    description:
+      'Pokedex App by using React (Vite.js) If you want to see my code you should open with "npm run dev" cause of the website host has blocked to show it',
     image: "/images/projects/pokedex-project.png",
     tag: ["All", "Web", "Mobile"],
     gitUrl: "https://github.com/copcrush/pokedex-app.git",
-    previewUrl:
-      "https://github.com/copcrush/pokedex-app/blob/main/pages/home/index.tsx",
+    previewUrl: "http://localhost:5173/",
   },
   {
     id: 4,
